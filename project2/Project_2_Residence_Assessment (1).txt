@@ -1,0 +1,346 @@
+PROJECT 2
+
+INFRASTRUCTURE THREAT AND VULNERABILITY ASSESSMENT OF A RESIDENTIAL HOUSE
+
+
+1.0 INTRODUCTION
+
+A residence can be considered an infrastructure because it contains physical facilities, electrical systems, communication technologies, information assets, and people that require protection.
+
+This project assesses a residential house by identifying its major domains, possible threats, existing vulnerabilities, associated risks, and appropriate mitigation measures.
+
+The assessment focuses on six major domains:
+
+1. Physical Security
+2. Electrical System
+3. Network and Internet Infrastructure
+4. Fire and Environmental Safety
+5. People and Occupants
+6. Data and Information Security
+
+
+2.0 DESCRIPTION OF THE RESIDENCE
+
+The infrastructure assessed is a typical residential house occupied by family members.
+
+The residence contains:
+
+- Main entrance/gate
+- Doors and windows
+- Electrical installations and power outlets
+- Internet/Wi-Fi router
+- Mobile phones and computers
+- Personal and household documents
+- Household appliances
+- Kitchen and cooking equipment
+- Storage areas
+- People and visitors
+
+The assessment considers both physical and cybersecurity-related risks because modern residences depend on technology as well as physical infrastructure.
+
+
+3.0 IDENTIFICATION OF DOMAINS
+
+1. Physical Security
+   Doors, windows, gate, locks and access to the residence.
+
+2. Electrical System
+   Electrical wiring, sockets, appliances and power equipment.
+
+3. Network and Internet
+   Router, Wi-Fi network, computers and mobile devices.
+
+4. Fire and Environmental Safety
+   Fire hazards, smoke, heat, flooding and emergency conditions.
+
+5. People and Occupants
+   Residents, visitors and human activities.
+
+6. Data and Information
+   Personal information, passwords, documents and digital files.
+
+
+4.0 THREAT IDENTIFICATION
+
+4.1 Physical Security Threats
+
+- Burglary
+- Theft
+- Unauthorized entry
+- Vandalism
+- Physical attack
+- Loss of keys
+
+4.2 Electrical System Threats
+
+- Electrical fire
+- Electric shock
+- Short circuit
+- Power surge
+- Damage to electrical appliances
+
+4.3 Network and Internet Threats
+
+- Unauthorized Wi-Fi access
+- Password attacks
+- Malware
+- Phishing
+- Unauthorized access to computers or phones
+- Data interception
+- Compromise of network-connected devices
+
+4.4 Fire and Environmental Threats
+
+- House fire
+- Smoke
+- Excessive heat
+- Flooding
+- Water damage
+- Poor ventilation
+
+4.5 People and Occupant Threats
+
+- Unauthorized visitors
+- Human error
+- Social engineering
+- Accidental disclosure of information
+- Unsafe behavior
+- Deliberate misuse by an occupant
+
+4.6 Data and Information Threats
+
+- Data theft
+- Unauthorized access
+- Password compromise
+- Device theft
+- Malware infection
+- Loss of important documents
+
+
+5.0 IDENTIFICATION AND CLASSIFICATION OF VULNERABILITIES
+
+5.1 Physical Security
+
+- Weak or old door locks — Physical
+- Unsecured windows — Physical
+- Poor outdoor lighting — Physical
+- Spare keys accessible to unauthorized people — Physical
+- No clearly defined visitor-control procedure — Administrative
+
+5.2 Electrical System
+
+- Overloaded electrical sockets — Physical
+- Damaged extension cables — Physical
+- Exposed or damaged wiring — Physical
+- Lack of regular electrical inspection — Administrative
+- Lack of surge protection for sensitive equipment — Technical
+
+5.3 Network and Internet
+
+- Weak Wi-Fi password — Technical
+- Router administrator password not changed from default — Technical
+- Router firmware not regularly updated — Technical
+- Computers or phones not regularly updated — Technical
+- No separate guest Wi-Fi network — Technical
+- Lack of household cybersecurity rules — Administrative
+
+5.4 Fire and Environmental Safety
+
+- No readily accessible fire extinguisher — Physical
+- No smoke detection system — Technical
+- Emergency exits may not be clearly identified — Physical
+- Lack of emergency evacuation procedure — Administrative
+- Flammable materials stored near heat sources — Physical
+
+5.5 People and Occupants
+
+- Visitors may not be formally monitored — Administrative
+- Residents may share passwords — Administrative
+- Lack of cybersecurity awareness — Administrative
+- People may leave devices unlocked — Technical
+- Sensitive information may be discussed openly — Administrative
+
+5.6 Data and Information
+
+- Weak or reused passwords — Technical
+- Lack of regular backups — Technical
+- Important documents stored in unsecured locations — Physical
+- No formal procedure for protecting sensitive information — Administrative
+- Devices may not use screen locks — Technical
+
+
+6.0 RISK IDENTIFICATION AND ASSESSMENT
+
+6.1 Physical Security Risks
+
+- Burglary + weak door lock = Unauthorized entry and theft of property — Critical
+- Intrusion + poor outdoor lighting = Intruder may approach without detection — Major
+- Theft + unsecured windows = Property may be stolen — Major
+- Unauthorized entry + poor visitor control = Unknown individuals may gain access — Major
+
+6.2 Electrical System Risks
+
+- Electrical fire + overloaded sockets = Fire could damage the building and endanger occupants — Critical
+- Electric shock + damaged wiring = Occupants could suffer electrical injury — Critical
+- Power surge + lack of surge protection = Computers and electronics could be damaged — Major
+- Short circuit + damaged extension cable = Equipment damage or fire — Critical
+
+6.3 Network and Internet Risks
+
+- Unauthorized access + weak Wi-Fi password = Unauthorized person could access the home network — Major
+- Cyberattack + outdated router firmware = Router vulnerabilities could be exploited — Major
+- Malware + unpatched devices = Malware could infect devices and cause data loss — Major
+- Password attack + weak/reused passwords = Accounts could be compromised — Major
+- Unauthorized device access + no guest network = Visitors could potentially access main network resources — Major
+
+6.4 Fire and Environmental Risks
+
+- Fire + no fire extinguisher = Small fire may become difficult to control — Critical
+- Fire/smoke + no smoke detection = Occupants may receive late warning — Major
+- Fire + poor storage of flammable materials = Fire could spread more quickly — Critical
+- Flooding + poor drainage = Water could damage property and electrical equipment — Major
+
+6.5 People and Occupant Risks
+
+- Unauthorized visitor + poor visitor monitoring = Theft or physical harm could occur — Major
+- Social engineering + lack of awareness = Personal/security information could be disclosed — Major
+- Human error + lack of security procedures = Accidental security incidents may occur — Minor
+- Device misuse + unlocked devices = Unauthorized people may access personal information — Major
+
+6.6 Data and Information Risks
+
+- Data theft + weak passwords = Personal accounts and information may be compromised — Major
+- Data loss + no regular backup = Important files may be permanently lost — Major
+- Unauthorized access + unlocked devices = Private information may be accessed — Major
+- Document theft + unsecured documents = Sensitive personal information may be exposed — Major
+
+
+7.0 RISK SUMMARY
+
+Critical risks:
+- Electrical fire
+- Electric shock
+- Burglary
+- Uncontrolled fire
+
+Major risks:
+- Wi-Fi compromise
+- Malware
+- Data theft
+- Unauthorized entry
+- Flooding
+
+Minor risks:
+- General human-error incidents with limited consequences
+
+
+8.0 MITIGATION MEASURES
+
+8.1 Physical Security
+
+- Install strong and reliable door locks.
+- Repair damaged doors and windows.
+- Improve outdoor lighting.
+- Keep keys secure.
+- Avoid leaving spare keys in obvious locations.
+- Monitor unfamiliar visitors.
+- Consider CCTV or other appropriate security measures where practical.
+
+8.2 Electrical Security
+
+- Avoid overloading electrical sockets.
+- Replace damaged extension cables.
+- Repair exposed or damaged wiring through a qualified electrician.
+- Conduct periodic electrical inspections.
+- Use appropriate circuit protection.
+- Use surge protection for sensitive electronic equipment.
+- Keep electrical equipment away from water.
+
+8.3 Network Security
+
+- Use a strong, unique Wi-Fi password.
+- Change the router's default administrator credentials.
+- Keep router firmware updated.
+- Enable WPA2 or WPA3 security where supported.
+- Update computers and mobile devices regularly.
+- Use antivirus/security software where appropriate.
+- Create a guest Wi-Fi network for visitors when supported.
+- Remove unknown devices from the network.
+- Avoid sharing passwords unnecessarily.
+
+8.4 Fire and Environmental Safety
+
+- Keep an appropriate fire extinguisher accessible.
+- Install smoke alarms where practical.
+- Keep emergency exits clear.
+- Store flammable materials safely and away from heat sources.
+- Develop a basic evacuation procedure.
+- Ensure occupants know how to respond to a fire.
+- Keep electrical equipment away from water.
+- Address drainage problems that could cause flooding.
+
+8.5 People and Occupant Security
+
+- Establish basic visitor-control procedures.
+- Educate occupants about phishing and social engineering.
+- Avoid sharing passwords.
+- Lock devices when leaving them unattended.
+- Avoid discussing sensitive information where unauthorized people can hear.
+- Establish simple emergency procedures.
+
+8.6 Data and Information Security
+
+- Use strong, unique passwords.
+- Enable multi-factor authentication where available.
+- Lock computers and smartphones.
+- Back up important files regularly.
+- Store sensitive physical documents securely.
+- Avoid storing passwords in exposed locations.
+- Keep operating systems and applications updated.
+- Dispose of sensitive documents securely.
+
+
+9.0 PRIORITY ACTION PLAN
+
+Priority 1 — Electrical and Fire Safety
+
+- Inspect damaged wiring and electrical connections.
+- Avoid overloaded sockets.
+- Obtain an appropriate fire extinguisher.
+- Ensure emergency exits remain accessible.
+
+Priority 2 — Physical Security
+
+- Check the condition of all door and window locks.
+- Improve lighting around entry points.
+- Secure spare keys.
+- Establish basic visitor-control procedures.
+
+Priority 3 — Network Security
+
+- Change the Wi-Fi password if it is weak or shared widely.
+- Change the router administrator password.
+- Update router firmware.
+- Update computers and mobile devices.
+- Remove unknown devices from the network.
+
+Priority 4 — Data Protection
+
+- Use strong passwords.
+- Enable multi-factor authentication.
+- Lock devices when unattended.
+- Back up important files.
+- Secure sensitive documents.
+
+
+10.0 CONCLUSION
+
+The assessment demonstrates that a residential house contains multiple interconnected security domains. These include physical security, electrical infrastructure, network and Internet systems, fire and environmental safety, people, and information.
+
+The assessment identified several vulnerabilities that could be exploited by different threats. The vulnerabilities were categorized as administrative, technical, or physical, while the resulting risks were classified as Critical, Major, or Minor.
+
+Critical risks such as electrical fire, electric shock, burglary, and uncontrolled fire require immediate attention. Major risks involving network security, unauthorized access, data protection, and environmental conditions should also be addressed.
+
+Implementing appropriate administrative, technical, and physical controls can reduce the likelihood and impact of these threats and improve the overall security and safety of the residence.
+
+The assessment should also be reviewed periodically because new vulnerabilities and threats can appear as people, technology, and the physical environment change.
